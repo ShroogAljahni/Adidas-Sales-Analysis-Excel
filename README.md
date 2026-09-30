@@ -2,7 +2,7 @@
 
 📌 Overview
 
-A practical assignment completed as part of an Excel course.
+A practical assignment completed as part of an Excel course.<br>
 The dataset was provided by the instructor, and the assignment focused on creating a Sales Dashboard and summarizing the data.
 
  Dashboard Questions ❓
