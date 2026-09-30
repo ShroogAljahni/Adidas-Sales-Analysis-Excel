@@ -16,9 +16,9 @@ The dashboard was designed to answer:
  
  Project Contents 📂
 
- 📊 Adidas Data - Dataset provided by the instructor
- 🔄 Pivot Tables - Used to summarize the data
- 📈 Dashboard - Final dashboard created for the assignment
+ 📊 Adidas Data - Dataset provided by the instructor<br>
+ 🔄 Pivot Tables - Used to summarize the data<br>
+ 📈 Dashboard - Final dashboard created for the assignment<br>
  
 🛠️ Tools Used
 - Microsoft Excel
