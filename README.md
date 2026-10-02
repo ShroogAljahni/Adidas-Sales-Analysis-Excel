@@ -26,4 +26,4 @@ The dashboard was designed to answer:
 - Excel Charts
 - Basic Data Analysis
 
-<img width="1122" height="747" alt="Dashboard" src="https://github.com/user-attachments/assets/3e9148c1-2135-45d9-bc7f-d340ada25368" />
+![Dashboard](Dashboard.png)
